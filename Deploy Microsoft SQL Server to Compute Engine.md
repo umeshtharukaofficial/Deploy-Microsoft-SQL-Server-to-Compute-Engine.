@@ -1,6 +1,6 @@
-# Deploy Microsoft SQL Server to Compute Engine || [GSP031](https://www.cloudskillsboost.google/focuses/3347?parent=catalog) ||
+# Deploy Microsoft SQL Server to Compute Engine 
 
-## Solution [here](https://youtu.be/u2v35vK0OnQ)
+## Solution
 
 ### Run the following Commands in CloudShell
 
@@ -15,12 +15,6 @@ sudo chmod +x gsp031.sh
 ./gsp031.sh
 ```
 
-### Congratulations 🎉 for completing the Lab !
+##### Congratulations! 🎉
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+### You have successfully completed the lab on
