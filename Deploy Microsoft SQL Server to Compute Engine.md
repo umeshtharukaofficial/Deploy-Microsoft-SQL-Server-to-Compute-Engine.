@@ -17,4 +17,4 @@ sudo chmod +x gsp031.sh
 
 ##### Congratulations! 🎉
 
-### You have successfully completed the lab on
+### You have successfully completed the lab on Deploy Microsoft SQL Server to Compute Engine
